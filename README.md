@@ -14,8 +14,11 @@ It provides REST APIs for managing **Customers**, **Products**, and **Transactio
 - Ready for ML-based recommendation system
   
 1. Clone the Repository
-2. 
+   
 git clone https://github.com/Tejaswiniraykar9960/Shopsmart_app
 cd Shopsmart_app
+
+
+
 
 
